@@ -1,0 +1,2 @@
+C:\Users\antoniocs\Projects\Personal\cpp\Tests_cpp\ide_opener\ide_opener.exe
+netbeans:///C:/Users/antoniocs/Projects/Work/Contracting/Edcoms/the-pod-project/the-pod/vendor/edcoms/cms/src/EdcomsCMS/ContentBundle/Controller/DisplayController.php:84
